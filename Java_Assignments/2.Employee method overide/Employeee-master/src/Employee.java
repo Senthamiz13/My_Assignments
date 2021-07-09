@@ -6,7 +6,7 @@ public class Employee {
     public Employee(String name, String desig, int salary) {
         this.name = name;
         this.desig = desig;
-        Salary = salary;
+        this.Salary = salary;
     }
 
     int totalsalary(){
